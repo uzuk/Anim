@@ -1,0 +1,2 @@
+rootProject.name = "FidelityTest"
+include ':app'
